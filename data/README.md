@@ -7,5 +7,5 @@ URL: https://data.mendeley.com/datasets/7jhddnpz2p/1
 License: CC BY 4.0
 
 Download the source dataset and place/export the analysis file here as `breast_cancer.csv`, or pass the actual path to `run_pipeline.py`.
-
+synthetic_schema_example.csv is only a schema example.
 
