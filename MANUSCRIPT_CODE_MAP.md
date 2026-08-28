@@ -23,5 +23,3 @@ simulation distributions, LIME kernel settings, and semantic cluster-label assig
 in the paper.
 
 The repository is therefore a **transparent reconstruction**, suitable as a reproducibility base.
-Before public release, the authors should compare its outputs against the original analysis and
-replace reconstructed assumptions with the verified original settings wherever possible.
